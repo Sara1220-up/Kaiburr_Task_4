@@ -39,7 +39,7 @@ Two repository secrets were created in **GitHub → Settings → Secrets → Act
 | `DOCKER_HUB_ACCESS_TOKEN` | Docker Hub access token (Read/Write/Delete scope) |
 
 ✅ Secrets Created Screenshot 👇  
-![Secrets Created](https://github.com/Sara1220-up/Kaiburr-Task-1/raw/main/Task%204/Secrete%20codes_Created.png)
+![Secrets Created](https://github.com/Sara1220-up/Kaiburr_Task_4/raw/main/Task%204/Secrete%20codes_Created.png)
 
 ---
 
@@ -49,10 +49,10 @@ The workflow file `.github/workflows/build-and-push.yml` automates the build and
 Below is the proof of the workflow created and executed successfully 👇  
 
 ### ⚙️ Workflow File in Repository
-![Full Workflow](https://github.com/Sara1220-up/Kaiburr-Task-1/raw/main/Task%204/full_workflow.png)
+![Full Workflow](https://github.com/Sara1220-up/Kaiburr_Task_4/raw/main/Task%204/full_workflow.png)
 
 ### 🧱 Workflow Compiled Successfully
-![Workflow Compiled](https://github.com/Sara1220-up/Kaiburr-Task-1/raw/main/Task%204/workflow_compiled.png)
+![Workflow Compiled](https://github.com/Sara1220-up/Kaiburr_Task_4/raw/main/Task%204/workflow_compiled.png)
 
 ---
 
@@ -61,7 +61,7 @@ Below is the proof of the workflow created and executed successfully 👇
 After the workflow runs successfully, the Spring Boot application is containerized and pushed to Docker Hub automatically.
 
 ✅ Image Created on Docker Hub 👇  
-![Image Created](https://github.com/Sara1220-up/Kaiburr-Task-1/raw/main/Task%204/image_created.png)
+![Image Created](https://github.com/Sara1220-up/Kaiburr_Task_4/raw/main/Task%204/image_created.png)
 
 ---
 
@@ -73,7 +73,7 @@ The image is available publicly on Docker Hub under your account:
 🔗 [https://hub.docker.com/repository/docker/sarayu2020/kaiburr-task4](https://hub.docker.com/repository/docker/sarayu2020/kaiburr-task4)
 
 ✅ Full Repository View in Docker 👇  
-![Full Docker View](https://github.com/Sara1220-up/Kaiburr-Task-1/raw/main/Task%204/Full_view_in_Docker.png)
+![Full Docker View](https://github.com/Sara1220-up/Kaiburr_Task_4/raw/main/Task%204/Full_view_in_Docker.png)
 
 ---
 
